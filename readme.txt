@@ -1,6 +1,6 @@
-南昌大学    过程装备与控制工程
+南昌大学    NCU
 This is a git
-华中科技大学   机械电子工程
+华中科技大学   HUSTER
 jiang xi jiaoyu kaoshi yuan
 ncu robocon team
 ok
@@ -9,4 +9,6 @@ git test why?	one
 
 
 git test why?   two
+
+
 
